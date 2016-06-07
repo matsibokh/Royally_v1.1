@@ -1,0 +1,21 @@
+#myfoto{
+    
+    float:left;
+}
+#mytext{
+    border-left: 2px solid black;
+    
+    float:right;
+}
+#myFoto{
+    width: 250px;
+    height: 250px;
+    margin: 15px;
+    float:left;
+}
+#about {
+    background:url(../img/background_main.jpg); 
+    background-repeat:none;
+    background-attachment:scroll;
+    background-position:center center;
+}
